@@ -1,3 +1,6 @@
+#### quick info: this project currently isn't in development
+
+
 # flatblog
 A lightweight, flatfile blog system written in PHP.
 
